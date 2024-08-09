@@ -8,8 +8,8 @@ Hi, I’m Vishal Waghmare, a Computer Science & Engineering graduate from Pune w
 
 ## 🚀 Projects
 
-### 🛒 ShopEase
-An innovative E-commerce platform tailored for students to buy and sell items. I’m dedicated to developing an intuitive UI/UX and integrating powerful backend features to enhance user experience.
+## 🛒 ShopEase
+An innovative E-commerce platform designed specifically for students to buy and sell items. The project is currently in progress, with a focus on creating an intuitive UI/UX and integrating robust backend features. I'm dedicated to enhancing the user experience and welcome contributions from anyone interested in helping bring this project to completion.
 
 
 ---
@@ -63,6 +63,6 @@ Web development, particularly the MERN stack, and my experience in building prac
 1. ⏰ I follow the 8-8-8 rule daily: 8 hours of study, 8 hours of sleep, and 8 hours for activities like cooking and gym.  
 2. 🌅 I wake up at 6 AM every day, without an alarm!  
 3. 📚 I once prepared for my 12th-grade exams in just 3-4 months and passed.  
-4. 💡 I taught myself web development from online courses and built my first project within 6 months.
-
+4. I taught myself web development from online courses and am currently working on my first mega project, **ShopEase**. This project is an E-commerce platform where students can buy and sell items. 
+   If you’re interested in contributing to this project, feel free to reach out and join in! Your contributions are welcome and appreciated.
 ---
