@@ -61,7 +61,7 @@ Web development, particularly the MERN stack, and my experience in building prac
 
 1. ⏰ I follow the 8-8-8 rule daily: 8 hours of study, 8 hours of sleep, and 8 hours for activities like cooking and gym.  
 2. 🌅 I wake up at 6 AM every day, without an alarm!  
-3. 📚 I once prepared for my 12th-grade exams in just 3-4 months and passed.  
-4. I taught myself web development from online courses and am currently working on my first mega project, **ShopEase**. This project is an E-commerce platform where students can buy and sell items. 
-   If you’re interested in contributing to this project, feel free to reach out and join in! Your contributions are welcome and appreciated.
+3. 📚 I prepared for my 12th-grade exams in just 1-2 months and successfully passed, though my score was lower due to facing financial challenges and working in a factory to resolve them. This experience         demonstrated my ability to quickly learn and adapt despite difficult circumstances.
+4. 💡 I taught myself web development from online courses and am currently working on my first mega project, **ShopEase**. This project is an E-commerce platform where students can buy and sell items. 
+       If you’re interested in contributing to this project, feel free to reach out and join in! Your contributions are welcome and appreciated.
 ---
