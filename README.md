@@ -8,9 +8,8 @@ Hi, I’m Vishal Waghmare, a Computer Science & Engineering graduate from Pune w
 
 ## 🚀 Projects
 
-## 🛒 ShopEase
+### 🛒 ShopEase
 An innovative E-commerce platform designed specifically for students to buy and sell items. The project is currently in progress, with a focus on creating an intuitive UI/UX and integrating robust backend features. I'm dedicated to enhancing the user experience and welcome contributions from anyone interested in helping bring this project to completion.
-
 
 ---
 
