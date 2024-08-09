@@ -1,7 +1,7 @@
 
 ---
 
-💫 # About Me
+# 💫 About Me
 
 👋 **Hello! I'm Vishal Waghmare**  
 Hi, I’m Vishal Waghmare, a Computer Science & Engineering graduate from Pune with a deep passion for web development. My journey has been shaped by a strong foundation in HTML5, CSS, JavaScript, and React.js, which I’ve applied in various projects like ‘ShopEase,’ an E-commerce platform, and a food ordering system. I’m currently focused on honing my skills in the MERN stack and enhancing my UI/UX design capabilities. Beyond coding, I’m dedicated to personal growth, following a structured routine that balances study, fitness, and skill development. I’m excited about new opportunities and always eager to connect with fellow tech enthusiasts!
